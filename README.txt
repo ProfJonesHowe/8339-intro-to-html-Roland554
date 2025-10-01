@@ -1,14 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/esJr-KnL)
-Create a basic HTML page
-Ensure you make your page public so they are viewable
-The index.html page will contain
-  the !DOCTYPE declaration
-  the <head> tag
-  the <title> tag
-  the <html> tag
-  the <body> tag
-  two different headings
-  One paragraph - The paragraph will be about something you are interested in.  This will define what your individual project will be about (this can be changed, but it's a starting idea) 
-  A link to any website about your topic
-  A picture about your topic with alt text
-  the proper closing tags.
+<!DOCTYPE html>
+<htmL>
+<head>
+    <title>My Webpage</title>
+</head>
+<body>
+<h1>Philosophy and sports</h1>
+<hr>
+<h2> Philosphy of life</h2>
+<img src="Miyamoto.jpg" height = "300">
+<p>
+Philosophy has been a topic I’ve been interested in since I was a kid. The various types of ideologies an individual can have pique my curiosity to its max. 
+From god complexes to smaller topics such as Machiavellism. Miyamoto Musashi is one of the biggest philosophical figures in history, well-known for his way of being a stoic. 
+After diving into his ideas and motives, I’ve incorporated some of those ideas into my own life. You can learn more about him <a href="https://en.wikipedia.org/wiki/Miyamoto_Musashi" target=_blank>here.</a>
+</p>
+<h2> Basketball</h2>
+<p>
+Basketball is my favorite sport. I've been playing this beautiful sport ever since 8th grade. After I've gotten my growth spurt, I wasn't going to let my
+height go to waste. Till this day, I'm trying to get better at it. 
+</p>
